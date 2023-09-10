@@ -1,5 +1,5 @@
 <template>
-  <div class="container container24325">
+  <div>
     
   <div class="version text-grey flex-direction-column flex diygw-col-24 justify-center align-center">
 					<div>แพลตฟอร์มสร้างรายได้ออนไลน์</div>
