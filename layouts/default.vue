@@ -1,6 +1,12 @@
 <template>
   <div class="container container24325">
     <Nuxt />
+  
+  <div class="version text-grey flex-direction-column flex diygw-col-24 justify-center align-center">
+					<div>DIY官网代码生成器生成</div>
+					<div>http://www.diygw.com</div>
+				</div>
+				<div class="clearfix"></div>
   </div>
 </template>
 
